@@ -14,8 +14,8 @@ regarding C8-C17 in the original design:
 the 1µF MKS capacitors are paralleled with 22nF KP capacitors  
 to compensate the very bad (=very high) dissipation factor (tanδ) of the MKS capacitors  
 originally equipped with:  
-WIMA MKS4    1µF/63V 10% (metallized Polyester)    tanδ=8x10  
-WIMA FKP2 0,022µF/63V 5%  (film/foil Polypropylene) tanδ=5x10  
+WIMA MKS4    1µF/63V 10% (metallized Polyester)    tanδ=8x10<sup>-3</sup>  
+WIMA FKP2 0,022µF/63V 5%  (film/foil Polypropylene) tanδ=5x10<sup>-4</sup>  
 aonther problem is:  
 You have to do a lot of component selection work (matching) when using 10% capacitors because:  
 Even while it is not so important that the 5 filter capacitors have exactly 1.00 µF,  
@@ -25,5 +25,5 @@ in this 5th order filter arrangement.
 #### better alternative (better tolerance & better tanδ):
 use good MKP 1% capacitors (with no additional parallel capacitors = omit C9,C11,C13,C15 and C17)  
 for example:  
-Vishay MKP1839 [MKP1839510161] 1µF/160V 1% axial (metallized Polypropylene) tanδ=4x10   
+Vishay MKP1839 [MKP1839510161] 1µF/160V 1% axial (metallized Polypropylene) tanδ=4x10<sup>-4</sup>   
 my KiCad PCB (<a href="/hardware/KiCad">/hardware/KiCad</a>) is prepared for using this big axial capacitors (10.5mm x 26.5mm) in upright position.  
