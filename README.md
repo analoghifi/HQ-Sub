@@ -22,7 +22,7 @@ Even while it is not so important that the 5 filter capacitors have exactly 1.00
 they should at least all have the same value (±1%) among each other  
 in this 5th order filter arrangement.  
   
-#### better alternative (better tolerance & better tanδ):  
+#### better alternative (better tolerance & better tanδ):
 use good MKP 1% capacitors (with no additional parallel capacitors = omit C9,C11,C13,C15 and C17)  
 for example:  
 Vishay MKP1839 [MKP1839510161] 1µF/160V 1% axial (metallized Polypropylene) tanδ=4x10   
