@@ -14,8 +14,8 @@ regarding C8-C17 in the original design:
 the 1µF MKS capacitors are paralleled with 22nF KP capacitors  
 to compensate the very bad (=very high) dissipation factor (tanδ) of the MKS capacitors  
 originally equipped with:  
-WIMA MKS4    1µF/63V 10% (metallized Polyester)    tanδ=8x10<sup>-3</sup>  
-WIMA FKP2 0,022µF/63V 5%  (film/foil Polypropylene) tanδ=5x10<sup>-4</sup> -> <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf">Datasheet (ROHS-version)</a>  
+WIMA MKS4    1µF/63V 10%   (Metallized Polyester (PET))     tanδ=8x10<sup>-3</sup> -> <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/dont%20use/PET%20MKS/WIMA_MKS_4__EN.pdf">Datasheet</a>  
+WIMA FKP2  0,022µF/63V 5%  (film/foil Polypropylene) tanδ=5x10<sup>-4</sup> -> <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__NEW_ROHS__EN.pdf">Datasheet (ROHS-version)</a>  
 (better old FKP2 version "NOS" without ROHS -> <a href ="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/kp/WIMA_FKP_2__OLD_nonROHS__EN.pdf">old Datasheet</a>)  
   
 another problem is:  
