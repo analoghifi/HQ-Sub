@@ -22,7 +22,7 @@ another problem is:
 You have to do a lot of component selection work (matching) when using 10% capacitors because:  
 Even while it is not so important that the 5 filter capacitors have exactly 1.00 µF,  
 they should at least all have the same value (±1%) among each other  
-in this 5th order filter arrangement.  
+for this kind of 5th order filter arrangement.  
   
 #### better alternative (better tolerance & better tanδ):
 use good MKP 1% capacitors (with no additional parallel capacitors = omit C9,C11,C13,C15 and C17)  
