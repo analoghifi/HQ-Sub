@@ -28,4 +28,4 @@ for this kind of 5th order filter arrangement.
 use good MKP 1% capacitors (with no additional parallel capacitors = omit C9,C11,C13,C15 and C17)  
 for example:  
 Vishay MKP1839 [MKP1839510161] 1µF/160V 1% axial (metallized Polypropylene) tanδ=4x10<sup>-4</sup> -> <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mkp/vishay_mkp1839.pdf">Datasheet</a>   
-my KiCad PCB (<a href="/hardware/KiCad">/hardware/KiCad</a>) is prepared for using this big axial capacitors (10.5mm x 26.5mm) in upright position.  
+my KiCad PCB (<a href="/hardware/KiCad/original">/hardware/KiCad/original</a>) is prepared for using this big axial capacitors (10.5mm x 26.5mm) in upright position.  
