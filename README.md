@@ -1,5 +1,7 @@
 # HQ-Sub  
-adjustable 5th order (30 dB/oct.) subsonic filter  
+adjustable\* 5th order (**30 dB/oct.**) subsonic filter  
+mono module  
+\*(13-53Hz / in 2-3Hz steps / 16 steps)  
   
 https://web.archive.org/web/20160324051200/http://thel-audioworld.de/module/Filterzone/HQ-Sub.htm
 
