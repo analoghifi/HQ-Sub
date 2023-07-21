@@ -35,6 +35,8 @@ my KiCad PCB (<a href="/hardware/KiCad/original">/hardware/KiCad/original</a>) i
 Dayton Audio "PMPC-1.0 1.0uF 250V Precision Audio Capacitor" (metallized Polypropylene) with 1% tolerance as well   
 -> https://www.daytonaudio.com/product/179/pmpc-1-0-1-0uf-250v-precision-audio-capacitor  
 -> https://www.soundimports.eu/en/dayton-audio-pmpc-1-0.html  
-although not knowing the exact tanδ for this type -> will be measrured by me soon ...
+although not knowing* the exact tanδ for this type -> will be measrured by me soon ...  
+  
+*(the manufacturer's statement: *"Dissipation Factor: Max 0.001 (0.1%) @ 1 KHz"* is only a general worst case statement for the entire series of these capacitors.)
 
 
