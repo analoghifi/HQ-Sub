@@ -10,6 +10,28 @@ https://web.archive.org/web/20160324051200/http://thel-audioworld.de/module/Filt
 <img src="/hardware/HQ-Sub1.jpg">  
   
 ----  
+
+### Frequency Table:  
+* 0: 13Hz
+* 1: 15Hz
+* 2: 18Hz
+* 3: 21Hz
+* 4: 23Hz
+* 5: 26Hz
+* 6: 29Hz
+* 7: 31Hz
+* 8: 34Hz
+* 9: 36Hz
+* A: 39Hz
+* B: 41Hz
+* C: 44Hz
+* D: 47Hz
+* E: 50Hz
+* F: 53Hz  
+
+All 5 switches must always be in the same position (!)  
+  
+----  
   
 ### A note on the capacitors used in the original design  
 The basic problem is:  
