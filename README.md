@@ -5,7 +5,12 @@ mono module
   
 https://web.archive.org/web/20160324051200/http://thel-audioworld.de/module/Filterzone/HQ-Sub.htm
 
-----
+----  
+
+<img src="/hardware/HQ-Sub1.jpg">  
+  
+----  
+  
 ### A note on the capacitors used in the original design  
 The basic problem is:  
 to get meaningful (= not too high) resistance values in this 5th order filter design we want to use 1µF capacitors.  
