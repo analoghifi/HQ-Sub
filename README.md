@@ -28,6 +28,13 @@ for this kind of 5th order filter arrangement.
   
 #### better alternative (better tolerance & better tanδ):
 use good MKP 1% capacitors (with no additional parallel capacitors = omit C9,C11,C13,C15 and C17)  
-for example:  
+**for example:**  
 Vishay MKP1839 [MKP1839510161] 1µF/160V 1% axial (metallized Polypropylene) tanδ=4x10<sup>-4</sup> -> <a href="https://github.com/analoghifi/capacitors/blob/main/audio%20and%20filter%20capacitors/docs/datasheets/mkp/vishay_mkp1839.pdf">Datasheet</a>   
 my KiCad PCB (<a href="/hardware/KiCad/original">/hardware/KiCad/original</a>) is prepared for using this big axial capacitors (10.5mm x 26.5mm) in upright position.  
+**or another alternative:**  
+Dayton Audio "PMPC-1.0 1.0uF 250V Precision Audio Capacitor" with 1% tolerance as well   
+-> https://www.daytonaudio.com/product/179/pmpc-1-0-1-0uf-250v-precision-audio-capacitor  
+-> https://www.soundimports.eu/en/dayton-audio-pmpc-1-0.html  
+although not knowing the exact tanδ for this type -> will be measrured by me soon ...
+
+
