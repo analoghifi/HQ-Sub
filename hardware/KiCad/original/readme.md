@@ -11,7 +11,7 @@ this is not the original Thel PCB but it's very like\* the original with the fol
   
 ### remarks:  
 #### U1:  
-instead of MC33078 you can use OPA1602,  
+instead of [MC33078](https://github.com/analoghifi/HQ-Sub/blob/main/docs/components%20datasheet/MC33078_ST.pdf) you can use [OPA1602](https://github.com/analoghifi/HQ-Sub/blob/main/docs/components%20datasheet/OPA1602.pdf),  
 with slightly better technical data regarding noise an THD.
   
 ----  
