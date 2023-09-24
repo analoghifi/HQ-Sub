@@ -12,7 +12,7 @@ this is not the original Thel PCB but it's very like\* the original with the fol
 ### remarks:  
 #### U1:  
 instead of [MC33078](https://github.com/analoghifi/HQ-Sub/blob/main/docs/components%20datasheet/MC33078_Motorola.pdf) you can use [LME49720](https://github.com/analoghifi/HQ-Sub/blob/main/docs/components%20datasheet/LME49720.pdf) or [LM4562](https://github.com/analoghifi/HQ-Sub/blob/main/docs/components%20datasheet/LM4562.pdf) (both\* Texas Instruments),  
-with slightly better technical data regarding noise an THD.  
+with slightly better technical data regarding noise and THD.  
 \*(these two are 100% identical (even regarding their inner guts))  
 
   
