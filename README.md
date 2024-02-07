@@ -66,5 +66,9 @@ Dayton Audio "PMPC-1.0 1.0uF 250V Precision Audio Capacitor" (metallized Polypro
 although not knowing the exact<sup>1</sup> tanδ for this type -> will be measured by me soon ...  
   
 <sup>1</sup>(the manufacturer's statement: *"Dissipation Factor [tanδ]: Max 0.001 (0.1%) [10x10<sup>-4</sup>] @ 1 KHz"* is only a general worst case statement for the entire series of these capacitors.)
+  
+----  
+### Kicad projects in this repo:  
+* [Thel HQ-Sub](https://github.com/analoghifi/HQ-Sub/tree/main/hardware/KiCad/original) | state: initial release v1.01 | like the original, 1-layer, THT
 
-
+----
